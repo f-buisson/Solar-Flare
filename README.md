@@ -1,5 +1,8 @@
 # 🔆 Solar Flare V1 – Open Hardware Prototype
 
+![Solar Flare V1 – ouvert](images/Assemblage_V1_ouvert.png)  
+![Solar Flare V1 – fermé](images/Assemblage_V1_ferme.png)
+
 Solar Flare is an experimental prototype of a **foldable solar concentrator**, designed to demonstrate the possibility of turning a small, portable surface into a powerful solar focal point.  
 This project is released as **open hardware** (under a dual license, see below) to share the idea, gather feedback, and explore wider applications.
 
@@ -84,6 +87,9 @@ It is **not designed for direct commercial use**, nor guaranteed in terms of saf
 ---
 
 # 🔆 Solar Flare V1 – Prototype Open Hardware
+
+![Solar Flare V1 – ouvert](images/Assemblage_V1_ouvert.png)  
+![Solar Flare V1 – fermé](images/Assemblage_V1_ferme.png)
 
 Solar Flare est un prototype expérimental de **concentrateur solaire pliable**, conçu pour démontrer la possibilité de transformer une petite surface transportable en un foyer solaire puissant.  
 Ce projet est publié en **open hardware** (sous licence mixte, voir plus bas) afin de partager l’idée, recueillir des retours, et explorer des usages plus larges.
