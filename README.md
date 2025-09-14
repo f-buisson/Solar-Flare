@@ -56,8 +56,14 @@ This mirror acts as an **ergonomic module**, optional but practical for portable
 
 ## 📂 Provided resources
 
-- 3D SolidWorks plans (screenshots and flat drawings).  
-- PDF files showing the **open** and **closed** versions.  
+- 3D SolidWorks plans (screenshots and flat drawings).
+  [Solar open](images/Solar_Open.PNG)
+  [Solar divers](images/vue_divers.PNG)
+ 
+- PDF files showing the **open** and **closed** versions.
+  [Assemblage V1 – fermé](images/Assemblage_V1_fermé.PNG)
+  [Assemblage V1 – ouvert](images/Assemblage_V1_ouvert.PNG)
+  
 
 ---
 
@@ -145,9 +151,14 @@ Ce miroir agit comme un **module ergonomique**, facultatif mais pratique pour un
 
 ## 📂 Ressources fournies
 
-- Plans 3D SolidWorks (captures et mises à plat).  
+- Plans 3D SolidWorks (captures et mises à plat).
+  [Solar open](images/Solar_Open.PNG)
+  [Solar divers](images/vue_divers.PNG)
+  
 - Fichiers PDF illustrant la version **ouverte** et **fermée**.  
-
+  [Assemblage V1 – fermé](images/Assemblage_V1_fermé.PNG)
+  [Assemblage V1 – ouvert](images/Assemblage_V1_ouvert.PNG)
+  
 ---
 
 ## ⚖️ Licence
