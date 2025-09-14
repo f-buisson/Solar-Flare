@@ -51,6 +51,7 @@ This mirror acts as an **ergonomic module**, optional but practical for portable
   - detachable photovoltaic cell for USB charging,  
   - small Stirling engine to produce motion or ventilation,  
   - large-scale version for home heating, camper vans, or light industry.  
+[futur](docs/futur)
 
 ---
 
@@ -146,6 +147,7 @@ Ce miroir agit comme un **module ergonomique**, facultatif mais pratique pour un
   - cellule photovoltaïque amovible pour recharge USB,  
   - micro-moteur Stirling pour produire du mouvement ou ventiler,  
   - version géante pour chauffage domestique, camping-car, ou petite industrie.  
+[futur](docs/futur)
 
 ---
 
