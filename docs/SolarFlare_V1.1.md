@@ -16,21 +16,21 @@ This version brings two major improvements compared to V1:
 ## Planned cabling diagrams
 
 ### Bottom view – Side panels
-![Bottom view](images/schema_cable_dessous.png)  
+![Bottom view](../images/schema_cable_dessous.png)
 The cables run under the structure and actuate the side flaps of each mirror.  
 Pulling on the control area (yellow) folds the flaps in a coordinated way.
 
 ---
 
 ### Top view – Global deployment
-![Top view](images/schema_cable_dessus.png)  
+![Top view](../images/schema_cable_dessus.png) 
 The upper cables connect each main panel.  
 Pulling on the control area (yellow) simultaneously closes all the panels.
 
 ---
 
 ### Side view – Global overview
-![Side view](images/schema_cable_coté.png)  
+![Side view](../images/schema_cable_cote.png)
 The side view highlights the separation between:  
 - the upper network for global closing,  
 - and the lower network for the side panels.  
