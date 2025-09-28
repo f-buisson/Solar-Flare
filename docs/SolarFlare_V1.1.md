@@ -68,21 +68,21 @@ Cette version apporte deux évolutions majeures par rapport à la V1 :
 ## Schémas de câblage envisagés
 
 ### Vue dessous – Parois latérales
-![Vue dessous](images/schema_cable_dessous.png)  
+![Vue dessous](../images/schema_cable_dessous.png)
 Les câbles passent sous la structure et actionnent les volets latéraux de chaque miroir.  
 En tirant sur la zone de commande (jaune), les volets se replient de manière coordonnée.
 
 ---
 
 ### Vue dessus – Déploiement global
-![Vue dessus](images/schema_cable_dessus.png)  
+![Vue dessus](../images/schema_cable_dessus.png)
 Les câbles supérieurs relient chaque panneau principal.  
 Tirer sur la zone de commande (jaune) entraîne la fermeture simultanée de tous les panneaux.
 
 ---
 
 ### Vue de côté – Synthèse globale
-![Vue de côté](images/schema_cable_coté.png)  
+![Vue de côté](../images/schema_cable_cote.png) 
 La vue latérale met en évidence la séparation entre :  
 - le réseau supérieur pour la fermeture global,  
 - et le réseau inférieur pour les parois latérales.  
