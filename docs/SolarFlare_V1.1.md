@@ -40,6 +40,15 @@ But the bottom must be closed before the top for the system to shut properly.
 
 ---
 
+## Solar sight
+
+![Solar sight](../images/viseur.png)
+
+The addition of the **solar sight** allows the device to be aligned precisely with the sun.  
+This feature ensures that the concentrated light is directed correctly, improving efficiency.
+
+---
+
 ## Points to optimize (next steps)
 - Test a **physical prototype** (cardboard/string model or 3D print) to validate the kinematics.  
 - Find a more efficient opening/closing automation system.  
@@ -88,6 +97,15 @@ La vue latérale met en évidence la séparation entre :
 - et le réseau inférieur pour les parois latérales.  
 
 Ces deux boucles indépendantes permettent un contrôle distinct des deux fonctions. Mais il faut fermé le bas avant le haut pour que cela se ferme correctement.
+
+---
+
+## Viseur solaire
+
+![Viseur solaire](../images/viseur.png)
+
+L’ajout du **viseur solaire** permet d’aligner précisément l’appareil avec le soleil.  
+Cette fonctionnalité garantit que la lumière concentrée est correctement dirigée, améliorant ainsi l’efficacité.
 
 ---
 
