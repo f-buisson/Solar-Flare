@@ -77,6 +77,16 @@ This mirror acts as an **ergonomic module**, optional but practical for portable
 
 ---
 
+---
+
+## Project evolution
+ 
+- **[Version 1.1](docs/SolarFlare_V1.1.md)** – Added a functional solar sight + first cable system (to be optimized).  
+
+More versions will follow as the design improves (V2, V3…).
+
+---
+
 ## 📣 Contribution & feedback
 
 This project is still at the **experimental prototype stage**.  
@@ -169,6 +179,14 @@ Ce miroir agit comme un **module ergonomique**, facultatif mais pratique pour un
 - **Usage commercial** : nécessite une licence via l’auteur.  
 
 👉 Voir le fichier [DUAL_LICENSE.md](./governance/DUAL_LICENSE.md) pour plus de détails.
+
+---
+
+## Évolution du projet
+
+- **[Version 1.1](docs/SolarFlare_V1.1.md)** – Ajout d’un viseur solaire fonctionnel + premier système de câbles (à optimiser).  
+
+D’autres versions suivront au fur et à mesure de l’amélioration du design (V2, V3…).
 
 ---
 
