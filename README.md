@@ -1,3 +1,5 @@
+[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
+
 # 🔆 Solar Flare V1 – Open Hardware Prototype
 
 ![Solar Flare V1 – schema](images/schema_solar_flare.png)  
@@ -92,6 +94,20 @@ More versions will follow as the design improves (V2, V3…).
 This project is still at the **experimental prototype stage**.  
 Any constructive criticism, suggestions for mechanical or optical improvements are welcome.  
 You can open an **issue** or submit a **pull request**.
+
+---
+
+### 🫶 Support this project
+
+I release these projects as **open-hardware**, so anyone can study, adapt, and rebuild them freely.  
+If you'd like to help the development continue and support new prototypes:  
+👉 https://github.com/sponsors/f-buisson  
+Even a symbolic contribution helps to:
+- fund necessary materials
+- develop and test prototypes
+- cover software licensing fees (SolidWorks, etc.)
+
+Thank you for your support ✦
 
 ---
 
@@ -195,6 +211,20 @@ D’autres versions suivront au fur et à mesure de l’amélioration du design 
 Ce projet est encore **au stade de prototype expérimental**.  
 Toute critique constructive, suggestion d’optimisation mécanique ou optique est la bienvenue.  
 Vous pouvez ouvrir une **issue** ou proposer une **pull request**.
+
+---
+
+### 🫶 Soutenir ce projet
+
+Je publie ces projets en **open-hardware**, pour que chacun puisse les comprendre, les adapter et les reconstruire librement.  
+Si tu souhaites contribuer à leur évolution et à la création de nouveaux prototypes :  
+👉 https://github.com/sponsors/f-buisson  
+Chaque contribution (même symbolique) permet de :
+- financer les matériaux nécessaires
+- développer et tester les prototypes
+- couvrir les licences logicielles (SolidWorks, etc.)
+
+Merci pour ton soutien ✦
 
 ---
 
