@@ -108,7 +108,7 @@ Cela permet :
 
 ## 📷 Schémas du câblage
 
-![Cable Layout](../images/SOLAR_FLARE_V1.2_CABLE LAYOUT.png)
+![Cable Layout](../images/SOLAR_FLARE_V1.2_CABLE_LAYOUT.png)
 
 ---
 
