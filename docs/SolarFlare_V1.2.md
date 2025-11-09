@@ -39,7 +39,7 @@ This provides:
 
 ## 📷 Cable Diagrams
 
-![Cable Layout Open](../images/SOLAR FLARE V1.2 CABLE LAYOUT.png)
+![Cable Layout Open](images/SOLAR FLARE V1.2 CABLE LAYOUT.png)
 
 ---
 
@@ -108,7 +108,7 @@ Cela permet :
 
 ## 📷 Schémas du câblage
 
-![Cable Layout Open](../images/SOLAR FLARE V1.2 CABLE LAYOUT.png)
+![Cable Layout Open](images/SOLAR FLARE V1.2 CABLE LAYOUT.png)
 
 ---
 
