@@ -70,20 +70,31 @@ This mirror acts as an **ergonomic module**, optional but practical for portable
 
 ---
 
-## ⚖️ License
+## 🔐 License & Usage
 
-- **Personal, educational and experimental use**: free (open hardware).  
-- **Commercial use**: requires a license from the author.  
+This project is **open-hardware**: you are free to learn from it, modify it, repair it, and reproduce it.
 
-👉 See [DUAL_LICENSE.md](./governance/DUAL_LICENSE.md) for details.
+- **Personal / educational / non-commercial use** → OK ✅  
+  (CERN-OHL-S 2.0 + CC BY-NC-SA 4.0)
 
----
+- **Professional / commercial use** → requires a **dedicated licence**  
+  (to support ongoing development, cover R&D costs, and prevent misuse)  
+  👉 https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad
+
+> **Note:** Commercial-use permission is **automatically granted** while an active  
+GitHub Sponsorship at the **$350/month tier (or higher)** is maintained.  
+If the sponsorship is downgraded or cancelled, the permission **immediately ends**.  
+No retroactive or continuing rights are provided after cancellation.
 
 ---
 
 ## Project evolution
  
 - **[Version 1.1](docs/SolarFlare_V1.1.md)** – Added a functional solar sight + first cable system (to be optimized).  
+- **[Version 1.2](docs/SolarFlare_V1.2.md)** – Added a **synchronized mirror actuation system** using cable routing + alignment rails.  
+  - All mirrors open/close together  
+  - Improved global alignment  
+  - Trade-off: slightly larger mechanism + requires precise cable tensioning
 
 More versions will follow as the design improves (V2, V3…).
 
@@ -189,18 +200,32 @@ Ce miroir agit comme un **module ergonomique**, facultatif mais pratique pour un
   
 ---
 
-## ⚖️ Licence
+## 🔐 Licence & Conditions d’usage
 
-- **Usage personnel, éducatif et expérimental** : libre (open hardware).  
-- **Usage commercial** : nécessite une licence via l’auteur.  
+Ce projet est publié en **open-hardware** : vous êtes libre de l’**étudier**, le **modifier**, le **réparer** et le **reproduire**.
 
-👉 Voir le fichier [DUAL_LICENSE.md](./governance/DUAL_LICENSE.md) pour plus de détails.
+- **Usage personnel / éducatif / non-commercial** → Autorisé ✅  
+  (CERN-OHL-S 2.0 + CC BY-NC-SA 4.0)
+
+- **Usage professionnel / commercial** → nécessite une **licence dédiée**  
+  (afin de soutenir le développement, couvrir les coûts R&D et éviter les abus)  
+  👉 https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad
+
+> **Note :** Le droit d’usage commercial est **automatiquement accordé** si un
+> sponsoring GitHub est actif au **palier de 350€/mois (ou supérieur)**.  
+> Si le sponsoring est réduit ou annulé, l’autorisation commerciale **prend fin immédiatement**.  
+> Aucun droit rétroactif ou permanent n’est conservé après l’arrêt du sponsoring.
+
 
 ---
 
 ## Évolution du projet
 
 - **[Version 1.1](docs/SolarFlare_V1.1.md)** – Ajout d’un viseur solaire fonctionnel + premier système de câbles (à optimiser).  
+- **[Version 1.2](docs/SolarFlare_V1.2.md)** – Ajout d’un système de **synchronisation des miroirs** via câbles + rails de guidage.  
+  - Ouverture/fermeture simultanée des panneaux  
+  - Alignement global amélioré  
+  - Compromis : légère augmentation de l’encombrement + nécessité d’un ajustement précis des câbles
 
 D’autres versions suivront au fur et à mesure de l’amélioration du design (V2, V3…).
 
