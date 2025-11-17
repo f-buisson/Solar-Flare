@@ -57,6 +57,19 @@ This mirror acts as an **ergonomic module**, optional but practical for portable
 
 ---
 
+## 🔗 Used in other open-hardware projects
+
+Solar Flare is also used as a **core solar heat module** in other open-hardware concepts:
+
+- **[SolarLift](https://github.com/f-buisson/SolarLift)** – thermal-lift-based **gravity energy storage** (heat → mechanical lift → potential energy).  
+- **[SolarWell](https://github.com/f-buisson/SolarWell)** – **low-tech solar distillation** unit to turn seawater or polluted water into drinkable water using only the sun.
+
+These projects reuse Solar Flare as a **shared concentrator**, and explore how the same solar hardware can:
+- lift weights slowly (SolarLift),
+- produce small amounts of clean water (SolarWell).
+
+---
+
 ## 📂 Provided resources
 
 - 3D SolidWorks plans (screenshots and flat drawings).
@@ -185,6 +198,19 @@ Ce miroir agit comme un **module ergonomique**, facultatif mais pratique pour un
   - micro-moteur Stirling pour produire du mouvement ou ventiler,  
   - version géante pour chauffage domestique, camping-car, ou petite industrie.  
 [futur](docs/futur)
+
+---
+
+## 🔗 Utilisé dans d’autres projets open-hardware
+
+Solar Flare est également utilisé comme **module de chaleur solaire central** dans d’autres concepts open-hardware :
+
+- **[SolarLift](https://github.com/f-buisson/SolarLift)** – système de **stockage d’énergie gravitaire** par élévation lente de poids via la chaleur solaire.  
+- **[SolarWell](https://github.com/f-buisson/SolarWell)** – unité de **distillation solaire low-tech** pour transformer de l’eau de mer ou légèrement polluée en eau potable uniquement grâce au soleil.
+
+Ces projets réutilisent Solar Flare comme **concentrateur commun**, et explorent comment le même hardware solaire peut :
+- stocker un peu d’énergie (SolarLift),  
+- produire un peu d’eau potable (SolarWell).
 
 ---
 
