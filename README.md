@@ -70,6 +70,15 @@ These projects reuse Solar Flare as a **shared concentrator**, and explore how t
 
 ---
 
+## 🌞 Sun-tracking concepts (doc)
+
+Solar Flare can be used with or without tracking.  
+Several **low-tech ideas** to keep the concentrator roughly aligned with the sun (thermal tracking with bimetal strips, gravity-driven “clock” systems, hybrid micro-powered tracking, and integration with SolarLift / SolarWell) are described in:
+
+- **[Sun tracking concepts](docs/Sun_Tracking_concepts.md)**
+
+---
+
 ## 📂 Provided resources
 
 - 3D SolidWorks plans (screenshots and flat drawings).
@@ -211,6 +220,15 @@ Solar Flare est également utilisé comme **module de chaleur solaire central** 
 Ces projets réutilisent Solar Flare comme **concentrateur commun**, et explorent comment le même hardware solaire peut :
 - stocker un peu d’énergie (SolarLift),  
 - produire un peu d’eau potable (SolarWell).
+
+---
+
+## 🌞 Concepts de suivi solaire (doc)
+
+Solar Flare peut être utilisé avec ou sans système de suivi.  
+Quelques pistes **low-tech** pour garder le concentrateur à peu près aligné sur le soleil (suivi thermique par lames bimétalliques, systèmes gravitaires type horloge, suivi hybride micro-alimenté, intégration avec SolarLift / SolarWell) sont décrites ici :
+
+- **[Concepts de suivi solaire](docs/Sun_Tracking_concepts.md)**
 
 ---
 
