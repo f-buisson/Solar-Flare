@@ -111,14 +111,18 @@ No retroactive or continuing rights are provided after cancellation.
 ---
 
 ## Project evolution
- 
-- **[Version 1.1](docs/SolarFlare_V1.1.md)** – Added a functional solar sight + first cable system (to be optimized).  
-- **[Version 1.2](docs/SolarFlare_V1.2.md)** – Added a **synchronized mirror actuation system** using cable routing + alignment rails.  
-  - All mirrors open/close together  
-  - Improved global alignment  
-  - Trade-off: slightly larger mechanism + requires precise cable tensioning
 
-More versions will follow as the design improves (V2, V3…).
+  * [Version 1.1] – Added a functional solar sight + first cable system (to be optimized).
+  * [Version 1.2] – Added a synchronized mirror actuation system using cable routing + alignment rails.
+    * All mirrors open/close together
+    * Improved global alignment
+    * Trade-off: slightly larger mechanism + requires precise cable tensioning
+  * **Version 1.3 – Added a rotating aiming module under the device**
+    * New bottom block that can rotate 360° around the main axis.
+    * Flat mirror mounted on a hinge, tilting from 0° to ~90°.
+    * Allows aiming the concentrated spot **anywhere below the device** (from slightly downward to near-horizontal).
+    * If the mirror is tilted out of the beam, the spot simply appears vertically under Solar Flare.
+    * V1.3 does not change the optical design; it only adds an ergonomic “steering” layer.
 
 ---
 
@@ -265,13 +269,17 @@ Ce projet est publié en **open-hardware** : vous êtes libre de l’**étudier*
 
 ## Évolution du projet
 
-- **[Version 1.1](docs/SolarFlare_V1.1.md)** – Ajout d’un viseur solaire fonctionnel + premier système de câbles (à optimiser).  
-- **[Version 1.2](docs/SolarFlare_V1.2.md)** – Ajout d’un système de **synchronisation des miroirs** via câbles + rails de guidage.  
-  - Ouverture/fermeture simultanée des panneaux  
-  - Alignement global amélioré  
-  - Compromis : légère augmentation de l’encombrement + nécessité d’un ajustement précis des câbles
-
-D’autres versions suivront au fur et à mesure de l’amélioration du design (V2, V3…).
+  * [Version 1.1] – Ajout d’un viseur solaire fonctionnel + premier système de câbles (à optimiser).
+  * [Version 1.2] – Ajout d’un système de synchronisation des miroirs via câbles + rails de guidage.
+    * Ouverture / fermeture simultanée des panneaux
+    * Alignement global amélioré
+    * Compromis : légère augmentation de l’encombrement + nécessité d’un réglage précis des câbles
+  * **Version 1.3 – Ajout d’un module de visée rotatif sous l’appareil**
+    * Nouveau bloc inférieur rotatif à 360° autour de l’axe principal.
+    * Miroir plan monté sur charnière, inclinable de 0° à ~90°.
+    * Permet de viser le point chaud **vers n’importe quelle direction située sous l’appareil** (du légèrement vers le bas jusqu’au quasi horizontal).
+    * Quand le miroir est sorti du faisceau, le point focal apparaît simplement à la verticale, sous Solar Flare.
+    * La V1.3 ne modifie pas le design optique ; elle ajoute uniquement une couche de pilotage plus ergonomique.
 
 ---
 
