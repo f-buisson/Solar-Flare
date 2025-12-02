@@ -19,7 +19,7 @@ The module combines:
 - a **360° rotating block** around the main axis,
 - a **flat mirror** mounted on a hinge, tilting from **0° to ~90°**.
 
-![Solar Flare V1.3 – rotating aiming module](images/schematic_solarflare_v1.3.png)
+![Solar Flare V1.3 – rotating aiming module](../images/schematic_solarflare_v1.3.png)
 
 ---
 
@@ -123,7 +123,7 @@ Le module combine :
 - un **bloc rotatif à 360°** autour de l’axe principal,
 - un **miroir plan** monté sur une charnière, inclinable de **0° à ~90°**.
 
-![Solar Flare V1.3 – rotating aiming module](images/schematic_solarflare_v1.3.png)
+![Solar Flare V1.3 – rotating aiming module](../images/schematic_solarflare_v1.3.png)
 
 ---
 
