@@ -19,7 +19,7 @@ The module combines:
 - a **360° rotating block** around the main axis,
 - a **flat mirror** mounted on a hinge, tilting from **0° to ~90°**.
 
-![Solar Flare V1.3 – rotating aiming module](.images/schematic_solarflare_v1.3.png)
+![Solar Flare V1.3 – rotating aiming module](images/schematic_solarflare_v1.3.png)
 
 ---
 
@@ -123,7 +123,7 @@ Le module combine :
 - un **bloc rotatif à 360°** autour de l’axe principal,
 - un **miroir plan** monté sur une charnière, inclinable de **0° à ~90°**.
 
-![Solar Flare V1.3 – rotating aiming module](.images/schematic_solarflare_v1.3.png)
+![Solar Flare V1.3 – rotating aiming module](images/schematic_solarflare_v1.3.png)
 
 ---
 
@@ -196,9 +196,9 @@ Prochaines étapes :
 
 - Impression / usinage du bloc rotatif.
 - Vérifier :
-  - l’alignement **axe du faisceau / axe de charnière**,
   - la **taille du miroir par rapport au spot** pour les angles utiles,
   - le système de friction / verrouillage de la rotation et de l’inclinaison.
 - Tests en plein soleil pour :
   - valider le confort de visée,
+  - l’alignement **axe du faisceau / axe de charnière**,
   - confirmer la tenue thermique du miroir et du bloc.
