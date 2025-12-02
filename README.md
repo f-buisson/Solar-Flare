@@ -124,6 +124,8 @@ No retroactive or continuing rights are provided after cancellation.
     * If the mirror is tilted out of the beam, the spot simply appears vertically under Solar Flare.
     * V1.3 does not change the optical design; it only adds an ergonomic “steering” layer.
 
+![Solar Flare V1.3 – rotating aiming module](images/schematic_solarflare_v1.3.png)
+
 ---
 
 ## 📣 Contribution & feedback
@@ -280,6 +282,8 @@ Ce projet est publié en **open-hardware** : vous êtes libre de l’**étudier*
     * Permet de viser le point chaud **vers n’importe quelle direction située sous l’appareil** (du légèrement vers le bas jusqu’au quasi horizontal).
     * Quand le miroir est sorti du faisceau, le point focal apparaît simplement à la verticale, sous Solar Flare.
     * La V1.3 ne modifie pas le design optique ; elle ajoute uniquement une couche de pilotage plus ergonomique.
+
+![Solar Flare V1.3 – rotating aiming module](images/schematic_solarflare_v1.3.png)
 
 ---
 
