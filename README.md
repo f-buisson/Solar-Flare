@@ -133,7 +133,7 @@ No retroactive or continuing rights are provided after cancellation.
     * All mirrors open/close together
     * Improved global alignment
     * Trade-off: slightly larger mechanism + requires precise cable tensioning
-  * ** [Version 1.3](docs/SolarFlare_V1.3.md) – Added a rotating aiming module under the device**
+  * [Version 1.3](docs/SolarFlare_V1.3.md) – Added a rotating aiming module under the device**
     * New bottom block that can rotate 360° around the main axis.
     * Flat mirror mounted on a hinge, tilting from 0° to ~90°.
     * Allows aiming the concentrated spot **anywhere below the device** (from slightly downward to near-horizontal).
@@ -307,7 +307,7 @@ Ce projet est publié en **open-hardware** : vous êtes libre de l’**étudier*
     * Ouverture / fermeture simultanée des panneaux
     * Alignement global amélioré
     * Compromis : légère augmentation de l’encombrement + nécessité d’un réglage précis des câbles
-  * ** [Version 1.3](docs/SolarFlare_V1.3.md) – Ajout d’un module de visée rotatif sous l’appareil**
+  * [Version 1.3](docs/SolarFlare_V1.3.md) – Ajout d’un module de visée rotatif sous l’appareil**
     * Nouveau bloc inférieur rotatif à 360° autour de l’axe principal.
     * Miroir plan monté sur charnière, inclinable de 0° à ~90°.
     * Permet de viser le point chaud **vers n’importe quelle direction située sous l’appareil** (du légèrement vers le bas jusqu’au quasi horizontal).
