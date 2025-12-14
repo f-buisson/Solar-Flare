@@ -22,7 +22,7 @@ The system is based on:
 👉 Special feature:  
 An **optional secondary deflector mirror** can be added at the bottom of the device.  
 - Without the mirror: the focal point is vertical, directly under the lens (maximum efficiency).  
-- With the mirror: the beam is redirected horizontally, which effectively doubles the final focal length. This makes it easier to light a cigarette or ignite material while holding the device sideways, **without risking damage to the lens or burning the structure** due to the short focal length (~3 cm).  
+- With the mirror: the beam is redirected horizontally, which effectively deviated the final focal. This makes it easier to light a cigarette or ignite material while holding the device sideways, **without risking damage to the lens or burning the structure** due to the short focal length (~3 cm).  
 This mirror acts as an **ergonomic module**, optional but practical for portable use.
 
 ---
@@ -195,7 +195,7 @@ Le système repose sur :
 👉 Particularité :  
 Un **miroir déflecteur secondaire optionnel** peut être ajouté en bas du dispositif.  
 - Sans miroir : le foyer est vertical, directement sous la lentille (rendement maximal).  
-- Avec miroir : le rayon est dévié horizontalement, ce qui permet de doubler la focale finale et par exemple d’allumer une cigarette ou un combustible en tenant l’objet sur le côté, **sans risquer d’endommager la lentille ni de brûler la structure** à cause de la courte distance focale (~3 cm).  
+- Avec miroir : le rayon est dévié horizontalement, ce qui permet de dévier la focale finale et par exemple d’allumer une cigarette ou un combustible en tenant l’objet sur le côté, **sans risquer d’endommager la lentille ni de brûler la structure** à cause de la courte distance focale (~3 cm).  
 Ce miroir agit comme un **module ergonomique**, facultatif mais pratique pour un usage portatif.
 
 ---
