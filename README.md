@@ -95,13 +95,13 @@ Several **low-tech ideas** to keep the concentrator roughly aligned with the sun
 
 ## 🧪 Prototyping approach (planned)
 
-To avoid jumping directly into miniaturization, the next physical build will be a **scale ×3 Proof of Concept** (relative to the current V1 CAD).
+To avoid jumping directly into miniaturization, the next physical build will be a **scale ×2,5 Proof of Concept** (relative to the current V1 CAD).
 The goal is to obtain a **more robust, less portable but more performant** first unit and to validate the global geometry and mechanical behavior more easily.
 
-This ×3 scale also helps reduce early issues linked to a **very short focal distance** in the ×1 format, making alignment and testing safer and more repeatable.
+This ×2,5 scale also helps reduce early issues linked to a **very short focal distance** in the ×1 format, making alignment and testing safer and more repeatable.
 
 Planned steps:
-- **POC ×3**: validate optics, folding logic, mechanical reliability, and thermal constraints.
+- **POC ×2,5**: validate optics, folding logic, mechanical reliability, and thermal constraints.
 - **DFM pass**: simplify parts and improve tolerances for easier assembly.
 - **Portable scale ×1**: re-miniaturize with validated geometry.
 - **Micro-series (~10 units)**: optimize cost and assembly for limited production.
@@ -268,13 +268,13 @@ Quelques pistes **low-tech** pour garder le concentrateur à peu près aligné s
 
 ## 🧪 Approche de prototypage (prévue)
 
-Pour éviter de commencer directement par la miniaturisation, la prochaine réalisation physique sera un **Proof of Concept à l’échelle ×3** (par rapport à la CAO actuelle V1).
+Pour éviter de commencer directement par la miniaturisation, la prochaine réalisation physique sera un **Proof of Concept à l’échelle ×2,5** (par rapport à la CAO actuelle V1).
 L’objectif est d’obtenir un premier prototype **plus robuste, moins portable mais plus performant**, afin de valider la géométrie globale et le comportement mécanique avec un confort de test supérieur.
 
-Cette échelle ×3 permet aussi de limiter les difficultés initiales liées à une **distance focale très faible** au format ×1, rendant l’alignement et les essais plus sûrs et plus reproductibles.
+Cette échelle ×2,5 permet aussi de limiter les difficultés initiales liées à une **distance focale très faible** au format ×1, rendant l’alignement et les essais plus sûrs et plus reproductibles.
 
 Étapes envisagées :
-- **POC ×3** : validation optique, logique de pliage, fiabilité mécanique et contraintes thermiques.
+- **POC ×2,5** : validation optique, logique de pliage, fiabilité mécanique et contraintes thermiques.
 - **Passe DFM** : simplification des pièces et optimisation des tolérances.
 - **Version portable ×1** : re-miniaturisation avec géométrie validée.
 - **Micro-série (~10 unités)** : optimisation coût/assemblage pour production limitée.
