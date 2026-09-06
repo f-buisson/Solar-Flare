@@ -1,5 +1,3 @@
-[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
-
 # 🔭 SolarFlare – Low-tech Sun Tracking Concepts  
 
 SolarFlare can work **without any tracking**: it can simply be re-oriented by hand from time to time.

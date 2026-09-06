@@ -1,5 +1,3 @@
-[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
-
 **Language:** [English](#-solar-flare-v1--open-hardware-prototype) | [Français](#-solar-flare-v1--prototype-open-hardware)
 
 # 🔆 Solar Flare V1 – Open Hardware Prototype
@@ -115,14 +113,9 @@ This project is **open-hardware**: you are free to learn from it, modify it, rep
 - **Personal / educational / non-commercial use** → OK ✅  
   (CERN-OHL-S 2.0 + CC BY-NC-SA 4.0)
 
-- **Professional / commercial use** → requires a **dedicated licence**  
-  (to support ongoing development, cover R&D costs, and prevent misuse)  
-  👉 https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad
+- **Commercial use of the hardware design** → permitted under CERN-OHL-S 2.0, provided every derivative is published under the same licence.
 
-> **Note:** Commercial-use permission is **automatically granted** while an active  
-GitHub Sponsorship at the **$350/month tier (or higher)** is maintained.  
-If the sponsorship is downgraded or cancelled, the permission **immediately ends**.  
-No retroactive or continuing rights are provided after cancellation.
+- **Commercial use of the documentation and media** → outside the scope of CC BY-NC-SA 4.0. There is nothing to purchase: describe the intended use by e-mail and the request is answered case by case. See [DUAL_LICENSE.md](governance/DUAL_LICENSE.md).
 
 ---
 
@@ -152,17 +145,13 @@ You can open an **issue** or submit a **pull request**.
 
 ---
 
-### 🫶 Support this project
+### 🫶 Support this work
 
-I release these projects as **open-hardware**, so anyone can study, adapt, and rebuild them freely.  
-If you'd like to help the development continue and support new prototypes:  
-👉 https://github.com/sponsors/f-buisson  
-Even a symbolic contribution helps to:
-- fund necessary materials
-- develop and test prototypes
-- cover software licensing fees (SolidWorks, etc.)
+These projects are released as open hardware so anyone can study, adapt and rebuild them.
+If you want to support the work, GitHub Sponsors is open:
+👉 https://github.com/sponsors/f-buisson
 
-Thank you for your support ✦
+Sponsoring is entirely optional. It grants **no** commercial rights, **no** licence and **no** private access — it simply helps fund materials and prototypes.
 
 ---
 
@@ -288,14 +277,9 @@ Ce projet est publié en **open-hardware** : vous êtes libre de l’**étudier*
 - **Usage personnel / éducatif / non-commercial** → Autorisé ✅  
   (CERN-OHL-S 2.0 + CC BY-NC-SA 4.0)
 
-- **Usage professionnel / commercial** → nécessite une **licence dédiée**  
-  (afin de soutenir le développement, couvrir les coûts R&D et éviter les abus)  
-  👉 https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad
+- **Usage commercial de la conception matérielle** → autorisé par CERN-OHL-S 2.0, à condition de publier chaque dérivé sous la même licence.
 
-> **Note :** Le droit d’usage commercial est **automatiquement accordé** si un
-> sponsoring GitHub est actif au **palier de 350€/mois (ou supérieur)**.  
-> Si le sponsoring est réduit ou annulé, l’autorisation commerciale **prend fin immédiatement**.  
-> Aucun droit rétroactif ou permanent n’est conservé après l’arrêt du sponsoring.
+- **Usage commercial de la documentation et des médias** → hors du périmètre de CC BY-NC-SA 4.0. Rien n’est à acheter : décrivez l’usage envisagé par e-mail, la demande est traitée au cas par cas. Voir [DUAL_LICENSE.md](governance/DUAL_LICENSE.md).
 
 
 ---
@@ -326,17 +310,13 @@ Vous pouvez ouvrir une **issue** ou proposer une **pull request**.
 
 ---
 
-### 🫶 Soutenir ce projet
+### 🫶 Soutenir ce travail
 
-Je publie ces projets en **open-hardware**, pour que chacun puisse les comprendre, les adapter et les reconstruire librement.  
-Si tu souhaites contribuer à leur évolution et à la création de nouveaux prototypes :  
-👉 https://github.com/sponsors/f-buisson  
-Chaque contribution (même symbolique) permet de :
-- financer les matériaux nécessaires
-- développer et tester les prototypes
-- couvrir les licences logicielles (SolidWorks, etc.)
+Ces projets sont publiés en open hardware pour que chacun puisse les étudier, les adapter et les reconstruire.
+Si vous souhaitez soutenir ce travail, GitHub Sponsors est ouvert :
+👉 https://github.com/sponsors/f-buisson
 
-Merci pour ton soutien ✦
+Le sponsoring est entièrement facultatif. Il n’ouvre **aucun** droit commercial, **aucune** licence et **aucun** accès privé — il aide simplement à financer le matériel et les prototypes.
 
 ---
 
