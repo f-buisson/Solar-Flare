@@ -6,7 +6,9 @@ This roadmap turns the existing V1.3 design into a measured, reproducible POC be
 
 - Public design documentation: V1.1 → V1.2 → V1.3.
 - A complete offline POC package exists with SolidWorks assemblies/parts, STEP export, STL exports, BOM and fabrication notes.
-- Current POC lens baseline: **Edmund Optics #43-013**, 139.7 × 139.7 mm, EFL 254 mm, acrylic, uncoated, 85% typical transmission, 80 °C maximum operating temperature.
+- Current POC lens baseline: **Edmund Optics #43-013**, 139.7 × 139.7 mm (5.5 × 5.5 in), EFL 254 mm (10 in), acrylic, uncoated, 85% typical transmission, 80 °C maximum operating temperature.
+- The offline final-POC BOM dated 2026-01-27 identifies the lens by dimensions and focal length (5.5 × 5.5 in, 10 in focal length), which is consistent with #43-013. The BOM still needs an explicit manufacturer part number before P0 can close.
+- The same BOM specifies a nominal Ø12 retaining ring with **+0.2 to +0.3 mm recommended internal clearance (12.2–12.3 mm)**. This documents the intended clearance, but does not yet prove that the final printable geometry implements it.
 - An older candidate lens (#32-686, 170.18 × 170.18 mm, EFL 304.8 mm) exists in the engineering archive but is **not** the current final-POC baseline.
 - The current final POC STL package spans roughly **709 × 466 × 709 mm** in its export coordinate frame. This is an engineering-envelope check, not a certified product dimension.
 
@@ -17,9 +19,9 @@ The public ~18 W figure remains an **estimate** until calorimetric or equivalent
 Before adding new features:
 
 - [ ] Confirm the final assembly, STEP and STL exports all correspond to the same configuration.
-- [ ] Confirm #43-013 is the lens used by the BOM, CAD support and test plan.
+- [ ] Confirm #43-013 is the lens used by the BOM, CAD support and test plan. **Partial evidence:** the offline final BOM matches #43-013 dimensions/EFL, but names no manufacturer part number; CAD support and test-plan checks remain open.
 - [ ] Resolve all historical ×3 / larger-lens references so they cannot be confused with the current POC.
-- [ ] Check the 0.2 mm-clearance printable variant against the final assembly.
+- [ ] Check the 0.2 mm-clearance printable variant against the final assembly. **Partial evidence:** the offline BOM explicitly recommends 12.2–12.3 mm ID for the nominal Ø12 retaining ring; exported/final CAD geometry still needs verification.
 - [ ] Produce a single definitive BOM revision with materials, quantities, mirror substrate/film and adhesives.
 - [ ] Record the intended hinge-axis materials and flexible-cap solution.
 
