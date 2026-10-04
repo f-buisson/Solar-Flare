@@ -12,10 +12,13 @@ This project is released as **open hardware** (under a dual license, see below) 
 
 ## ⚙️ How it works
 
-The system is based on:  
-- A central **Fresnel lens** that concentrates sunlight.  
-- Foldable **parabolic side mirrors**, which increase the collecting surface and redirect light to the lens.  
-- A **primary focal point** located below the lens, where the solar energy is strongly concentrated.
+The system uses a **folded optical path**:  
+- Foldable **lower parabolic reflectors** form the main deployed solar aperture.  
+- They redirect the collected light toward an **upper parabolic / concave reflector**.  
+- The upper reflector sends the flux back downward through the central **Fresnel lens**.  
+- The Fresnel lens performs the final concentration into a **primary focal zone** below the device.
+
+The Fresnel lens is therefore not simply a directly illuminated collector surrounded by auxiliary mirrors: it is the final concentrating stage of a larger folded reflective aperture.
 
 👉 Special feature:  
 An **optional secondary deflector mirror** can be added at the bottom of the device.  
@@ -29,7 +32,7 @@ This mirror acts as an **ergonomic module**, optional but practical for portable
 
 - **Open**: ~282 mm × 282 mm × 184 mm (mirrors deployed).  
 - **Closed**: ~170 mm × 170 mm × 150 mm (mirrors folded).  
-- **Effective collecting area**: about 321 cm², equivalent to 32.1 W theoretical, ~18 W after losses (mirror, lens, alignment).
+- **V1 historical collecting-area estimate**: about 321 cm². The associated ~18 W figure is a **calculated V1 estimate, not a measured result**. The enlarged POC uses different geometry and must be evaluated separately from its CAD and physical tests.
 
 ---
 
@@ -180,10 +183,13 @@ Ce projet est publié en **open hardware** (sous licence mixte, voir plus bas) a
 
 ## ⚙️ Fonctionnement
 
-Le système repose sur :  
-- Une **lentille de Fresnel** centrale qui concentre les rayons solaires.  
-- Des **miroirs paraboliques latéraux** pliables, qui augmentent la surface collectrice et redirigent la lumière vers la lentille.  
-- Un **point focal principal** situé sous la lentille, où l’énergie lumineuse se concentre fortement.
+Le système utilise un **trajet optique replié** :  
+- Des **réflecteurs paraboliques inférieurs** déployables constituent l’ouverture solaire principale.  
+- Ils renvoient la lumière collectée vers un **réflecteur parabolique / concave supérieur**.  
+- Ce réflecteur supérieur renvoie ensuite le flux vers le bas, à travers la **lentille de Fresnel** centrale.  
+- La Fresnel assure la concentration finale vers une **zone focale principale** sous l’appareil.
+
+La lentille de Fresnel n’est donc pas simplement un collecteur directement éclairé entouré de miroirs auxiliaires : elle constitue le dernier étage de concentration d’une ouverture réfléchissante repliée plus grande.
 
 👉 Particularité :  
 Un **miroir déflecteur secondaire optionnel** peut être ajouté en bas du dispositif.  
@@ -197,7 +203,7 @@ Ce miroir agit comme un **module ergonomique**, facultatif mais pratique pour un
 
 - **Ouvert** : ~282 mm x 282 x 184 mm  (miroirs déployés).  
 - **Fermé** : ~170 mm x 170 x 150 mm (miroirs repliés).  
-- **Zone collectrice équivalente** : environ 321 cm², soit 32,1 W théorique donc environ 18 W après les pertes (miroir, lentille, alignement).
+- **Estimation historique de zone collectrice V1** : environ 321 cm². La valeur associée d’environ 18 W est une **estimation calculée de la V1, pas une mesure**. Le POC agrandi possède une géométrie différente et doit être évalué séparément à partir de sa CAO puis d’essais physiques.
 
 ---
 
