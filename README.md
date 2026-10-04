@@ -104,6 +104,10 @@ Planned steps:
 - **Portable scale ×1**: re-miniaturize with validated geometry.
 - **Micro-series (~10 units)**: optimize cost and assembly for limited production.
 
+The current final-POC engineering package uses an **Edmund Optics #43-013 Fresnel lens (139.7 × 139.7 mm, EFL 254 mm)**. A larger 170.18 mm / 304.8 mm lens was evaluated earlier but is not the current final-POC baseline.
+
+Engineering gates and measurement plan: **[docs/ROADMAP.md](docs/ROADMAP.md)**.
+
 ---
 
 ## 🔐 License & Usage
